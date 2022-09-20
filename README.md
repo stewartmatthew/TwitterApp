@@ -23,15 +23,15 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/4r19WoGapP.gif' title='User stories' alt='U stories1' />
+<img src='http://g.recordit.co/4r19WoGapP.gif' title='User stories' width='' alt='U stories1' />
 
-<img src='http://g.recordit.co/atE0dFNGsk.gif' title='User stories cont.' alt='U stories2' />
+<img src='http://g.recordit.co/atE0dFNGsk.gif' title='User stories cont.' width='' alt='U stories2' />
 
 <img src='https://imgur.com/a/mJcs7l1' title='Stay logged in across restart' width='' alt='Video Walkthrough' />
 
-<img src='https://imgur.com/a/GvxlYMS' title=Another story' />
+<img src='https://imgur.com/a/GvxlYMS' title=Another story' width='' alt='US' />
 
-<img src='https://imgur.com/a/gp23zaB' title='Bonus stories included' />
+<img src='https://imgur.com/a/gp23zaB' title='Bonus stories included' width='' alt='US' />
 
 Having trouble displaying my all of gifs this time around so here are all of my links: <br>
 https://imgur.com/a/mJcs7l1 <br>
