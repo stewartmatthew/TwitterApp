@@ -23,8 +23,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/mJcs7l1' title='Stay logged in across restart' width='' alt='Video Walkthrough' />
+<img src='imgur.com/a/mJcs7l1' title='Stay logged in across restart' width='' alt='Video Walkthrough' />
 
-<img src='https://imgur.com/a/GvxlYMS' alt=Video Wlkthrgh' />
+<img src='https://imgur.com/a/GvxlYMS' alt='Another Video' />
 
 <img src='https://imgur.com/a/gp23zaB' title='Bonus stories included' />
