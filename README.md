@@ -20,6 +20,9 @@ The following **bonus** features are implemented:
 
 ## Video Walkthrough
 
+Update: 
+<img src="https://imgur.com/a/oaBygKR", width=250 />
+
 Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/a/o4ObwdW' title='Twitter App Walkthrough' width='' alt='Walkthrough' />
